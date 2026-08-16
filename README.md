@@ -56,7 +56,7 @@ Built a full-stack RAG chatbot (LangChain, ChromaDB, Streamlit) with a 4-stage r
 
 **Data Science Society @ Berkeley** · VP of Sourcing, Social Good Committee<br/>
 <sub>Sep 2025 – Present</sub><br/>
-Promoted from Consultant to VP of Sourcing; generated 30+ active partner leads and secured 5+ signed projects, including PG&E, National Geographic, and the Smithsonian.
+Promoted from Consultant to VP of Sourcing; generated 30+ active partner leads and secured 5+ signed projects, including PG&E, Logitech, National Geographic, and the Smithsonian.
 
 ### `$ cat skills.txt`
 
